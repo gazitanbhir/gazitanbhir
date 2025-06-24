@@ -43,14 +43,20 @@ Frameworks:   TensorFlow, PyTorch, HuggingFace, OpenCV
 Web Dev:      Django, FastAPI, HTMX, TailwindCSS
 Quantum ML:   Variational Circuits, Qiskit (concepts)
 Tools:        Git, Postgres, Vercel, Render, Playwright, Whisper
-🏆 Highlights & Awards
+
+### 🏆 Highlights & Awards
 🏅 Outstanding Thesis Project – WUB 2024
 
 🏅 ICPC Asia Regional Contestant – Dhaka 2023
 
 🥇 Champion, Mathematics & Computers – Talent Hunt, Govt. of Bangladesh
 
-📬 Let's Connect
-<p align="center"> 🌐 <a href="https://chatfolio.onrender.com" target="_blank">Website</a> • 💼 <a href="https://linkedin.com/in/gazitanbhir" target="_blank">LinkedIn</a> • 🐙 <a href="https://github.com/gazitanbhir" target="_blank">GitHub</a> • ✉️ <a href="mailto:gazitanbhir@gmail.com">Email</a> </p>
+### 📬 Let's Connect
+<p align="center"> 
+  🌐 <a href="https://chatfolio.onrender.com" target="_blank">Website</a> • 
+  💼 <a href="https://linkedin.com/in/gazitanbhir" target="_blank">LinkedIn</a> • 
+  🐙 <a href="https://github.com/gazitanbhir" target="_blank">GitHub</a> • 
+  ✉️ <a href="mailto:gazitanbhir@gmail.com">Email</a> </p>
+  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazitanbhir&layout=compact&theme=radical" /> </p>
 <p align="center"><em>“Made with ❤️ & logic — always building.”</em></p> ```
