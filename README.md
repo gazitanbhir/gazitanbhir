@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gazi Tanbhir
 
 🚀 AI/ML Engineer | 🔬 Quantum Researcher | 🧠 Problem Solver  
-📍 Dhaka, Bangladesh | 💼 Core Tech @ AuracoreTech (Remote)
+📍 Dhaka, Bangladesh | 💼 AI/ML Engineer @ AuracoreTech (Remote)
 
 I’m a passionate Machine Learning Engineer with a strong foundation in deep learning, natural language processing, and quantum-inspired algorithms. I build practical AI solutions and conduct academic research focused on real-world impact — from phishing detection to federated learning and quantum security.
 
