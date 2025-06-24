@@ -57,7 +57,9 @@ I’m a passionate Machine Learning Engineer with a strong foundation in deep le
 🌐 [Website](https://chatfolio.onrender.com)  
 💼 [LinkedIn](https://linkedin.com/in/gazitanbhir)  
 📧 [gazitanbhir@gmail.com](mailto:gazitanbhir@gmail.com)  
-🐙 [GitHub](https://github.com/gazitanbhir)
+🐙 [GitHub](https://github.com/gazitanbhir)  
+🎓 [Google Scholar](https://scholar.google.com/citations?user=FaiDa7cAAAAJ)
+
 
 ---
 
