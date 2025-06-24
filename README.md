@@ -63,6 +63,10 @@ I’m a passionate Machine Learning Engineer with a strong foundation in deep le
 
 ![Gazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gazitanbhir&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazitanbhir&layout=compact&theme=radical)
+![Gazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gazitanbhir&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=gazitanbhir&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazitanbhir&layout=compact)
+
 
 ---
 
