@@ -10,16 +10,16 @@ I’m a passionate Machine Learning Engineer with a strong foundation in deep le
 ## 🔬 My Research & Publications
 
 📄 **Quantum-Inspired Privacy-Preserving Federated Learning for Secure Dementia Classification**  
-IEEE ECCE 2025 · [DOI](https://doi.org/10.1109/ECCE64574.2025.11013884)
+`IEEE ECCE 2025` · [DOI](https://doi.org/10.1109/ECCE64574.2025.11013884)
 
 📄 **Optimizing Phishing URL Detection with Variational Quantum Classifier**  
-ISACC 2025 · [DOI](https://doi.org/10.1109/ISACC65211.2025.10969366)
+`ISACC 2025` · [DOI](https://doi.org/10.1109/ISACC65211.2025.10969366)
 
 📄 **Bangla Smishing Detection using BERT + Char-CNN**  
-ICECE 2024 · [DOI](https://doi.org/10.1109/ICECE64886.2024.11024872)
+`ICECE 2024` · [DOI](https://doi.org/10.1109/ICECE64886.2024.11024872)
 
 📄 **Hybrid ML Approach for DDoS Mitigation**  
-Springer 2024 · [DOI](https://doi.org/10.1007/978-3-031-64064-3_7)
+`Springer 2024` · [DOI](https://doi.org/10.1007/978-3-031-64064-3_7)
 
 ---
 
@@ -62,7 +62,6 @@ Springer 2024 · [DOI](https://doi.org/10.1007/978-3-031-64064-3_7)
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazitanbhir&layout=compact&theme=radical)
-
 
 ---
 
